@@ -14,3 +14,7 @@ body {
 h1.menu-title {
   text-align: center;
 }
+
+.card img{
+  max-width:100%
+}
