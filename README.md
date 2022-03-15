@@ -31,5 +31,5 @@ The goals of this website are:
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the LICENSE.md file for details.
 Copyright (c) 2022 Lindsey Eastburg
