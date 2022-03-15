@@ -20,7 +20,8 @@ h1.menu-title {
 }
 
 .important {
-  font-weight: bold
+  font-weight: bold;
+  color: #374866; 
 }
 
 .center {
