@@ -11,7 +11,7 @@ body {
   box-sizing: border-box;
 }
 
-h1.menu-title {
+.center-text {
   text-align: center;
 }
 
@@ -24,7 +24,7 @@ h1.menu-title {
   color: #374866; 
 }
 
-.center {
+img.center {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -39,7 +39,7 @@ h1.menu-title {
 }
 
 .column {
-  float: left;
+  /* float: left; */
   width: 50%;
   padding: 0 10px;
 }
@@ -59,6 +59,9 @@ h1.menu-title {
   padding: 16px;
   text-align: left;
   background-color: #f1f1f1;
+  margin: 0 auto;
+  float: none;
+  margin-bottom: 10px
 }
 
 @media screen and (max-width: 600px) {
